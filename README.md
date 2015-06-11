@@ -1,2 +1,2 @@
 # hockey_2.0
-run the beta .exe file, GLHF
+in the main folder find a .exe file, click it, glhf!
